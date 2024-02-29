@@ -17,7 +17,7 @@
                     <li>Show</li>
                 </ul>
                 <div class="flex flex-col md:flex-row items-center justify-between space-y-6 md:space-y-0">
-                    <a href="{{ route('students.create') }}">Create Student ID</a>
+                    <a href="{{ route('students.create') }}">Create Student hama salar</a>
                 </div>
             </div>
         </section>
